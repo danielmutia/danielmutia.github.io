@@ -3,7 +3,7 @@ html
   width: 100%;
   max-height: 100%;
 }
-.main,.btn
+.main
 {
   background-image: url(startup.jpg);
   background-size: cover;
@@ -29,6 +29,7 @@ strong,em
 }
 .btn
 {
+  text-align: center;
   border-radius: 300px;
 }
 .btn:hover
