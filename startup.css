@@ -27,10 +27,13 @@ strong,em
 {
   text-transform: uppercase;s
 }
-.btn,form
+.btn
 {
   border-radius: 300px;
 }
+form
+{
+  border-radius: 300px;
 .btn:hover
 {
   background-color: rgb(28,5,58);
