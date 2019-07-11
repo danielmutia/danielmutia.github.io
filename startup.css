@@ -3,7 +3,7 @@ html
   width: 100%;
   max-height: 100%;
 }
-.main
+.main,.btn
 {
   background-image: url(startup.jpg);
   background-size: cover;
