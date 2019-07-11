@@ -1,0 +1,40 @@
+html
+{
+  width: 100%;
+  max-height: 100%;
+}
+.main
+{
+  background-image: url(startup.jpg);
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  border-width: 3px;
+}
+.col
+{
+  margin-top: 195px;
+  margin-bottom: 180px;
+  text-align: center;
+  font-size: 2em;
+  font-family: courier;
+}
+strong,em
+{
+  color: rgba(128,70,21,0.8);
+}
+<strong
+{
+  text-transform: uppercase;s
+}
+.btn
+{
+  border-radius: 300px;
+}
+.btn:hover
+{
+  background-color: rgb(28,5,58);
+  border-width: 2px;
+  cursor: pointer;
+
+}
